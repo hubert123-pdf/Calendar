@@ -25,11 +25,8 @@ namespace Kalendarz.Classes
                 string id = data.city_id[index].ToString();
                 string url = string.Format("https://danepubliczne.imgw.pl/api/data/synop/id/"+id);
                 var json = web.DownloadString(url);
-<<<<<<< HEAD
-=======
              
                 
->>>>>>> b7c7dcea0b65f429d0d3366b2f919e2b8ef1373c
                 weather = JsonConvert.DeserializeObject<Weather>(json);
             }
         }
