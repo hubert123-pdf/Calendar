@@ -14,21 +14,21 @@
         <Button x:Name="Szukaj" Content="Szukaj" Margin="86,111,140,-108" RenderTransformOrigin="0.5,0.5" Click="Search_Click">
 
         </Button>
-        <TextBlock x:Name="id_miasta" TextWrapping="Wrap" Text="ID: " Margin="559,11,140,-10"/>
-        <TextBlock x:Name="temp_miasta" TextWrapping="Wrap" Text="Temperatura: " Margin="559,40,120,-42"/>
-        <TextBlock x:Name="wilg_miasta" TextWrapping="Wrap" Text="Wilgotność: " Width="120" Margin="559,65,121,-65"/>
+        <TextBlock x:Name="cisnienie_miasta" TextWrapping="Wrap" Text="Ciśnienie: " Margin="559,11,140,-10"/>
+        <TextBlock x:Name="temperatura_miasta" TextWrapping="Wrap" Text="Temperatura: " Margin="559,40,120,-42"/>
+        <TextBlock x:Name="wilgotnosc_miasta" TextWrapping="Wrap" Text="Wilgotność: " Width="120" Margin="559,69,430,-69"/>
         <Button Content="Dodaj" Margin="43,322,764,-319" Click="AddToDatabase_Click"/>
-        <TextBox x:Name="Data" TextWrapping="Wrap" Text="Data" Width="120" Margin="74,281,915,-280"/>
-        <TextBox x:Name="id_wydarzenia" TextWrapping="Wrap" Text="id" Width="120" Margin="74,162,915,-161"/>
-        <TextBox x:Name="nazwa_wydarzenia" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="74,205,915,-204"/>
-        <TextBox x:Name="opis_wydarzenia" TextWrapping="Wrap" Text="Opis" Width="120" Margin="74,232,915,-231" RenderTransformOrigin="0.413,-1.531"/>
-        <TextBox x:Name="id_do_usuniecia" TextWrapping="Wrap" Text="Id do usunięcia" Width="120" Margin="468,219,521,-219"/>
+        <TextBox x:Name="dodaj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="74,268,915,-267"/>
+        <TextBox x:Name="dodaj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="74,175,915,-174"/>
+        <TextBox x:Name="dodaj_opis" TextWrapping="Wrap" Text="Opis" Width="120" Margin="74,218,915,-217" RenderTransformOrigin="0.413,-1.531"/>
+        <TextBox x:Name="usun_data" TextWrapping="Wrap" Text="Data do usuniecia" Width="120" Margin="468,254,521,-254"/>
         <Button Content="Usuń" Margin="395,324,448,-317" Click="RemoveFromDatabase_Click"/>
         <Button Content="Edytuj" Margin="774,322,69,-315" Click="EditRecord_Click"/>
-        <TextBox x:Name="Data_Edit" TextWrapping="Wrap" Text="Data" Width="120" Margin="822,281,167,-280"/>
-        <TextBox x:Name="id_wydarzenia_Edit" TextWrapping="Wrap" Text="id" Width="120" Margin="822,162,167,-161"/>
-        <TextBox x:Name="nazwa_wydarzenia_Edit" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="822,205,167,-204"/>
-        <TextBox x:Name="opis_wydarzenia_Edit" TextWrapping="Wrap" Text="Opis" Width="120" Margin="822,236,167,-235" RenderTransformOrigin="0.413,-1.531"/>
+        <TextBox x:Name="edytuj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="822,174,167,-173"/>
+        <TextBox x:Name="edytuj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="822,218,167,-217"/>
+        <TextBox x:Name="edytuj_opis" TextWrapping="Wrap" Text="Opis" Width="120" Margin="822,267,167,-266" RenderTransformOrigin="0.413,-1.531"/>
+        <TextBox x:Name="ERROR" TextWrapping="Wrap" Width="120" Margin="486,407,503,-407"/>
+        <TextBox x:Name="dodaj_godzina" TextWrapping="Wrap" Text="Godzina" Width="120" Margin="208,268,781,-267"/>
 
 
 

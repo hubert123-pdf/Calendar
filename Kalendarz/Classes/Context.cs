@@ -10,9 +10,9 @@ namespace Kalendarz.Classes
     public class Context : DbContext
     {
       public Context(): base (@"Data Source=DESKTOP-IQFHTQQ; Initial Catalog=Kalendarz; Integrated Security=True")
-            {
+        {
 
-            }
+        }
         public DbSet<Event> Events { get; set; }
 
     }
