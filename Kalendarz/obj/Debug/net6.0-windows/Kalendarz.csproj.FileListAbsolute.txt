@@ -33,3 +33,4 @@ C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\bin\Debug\net6.0-windows\Kalend
 C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.initial.resources
 C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.csproj.GenerateResource.cache
 C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.edit.resources
+C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.Final.resources
