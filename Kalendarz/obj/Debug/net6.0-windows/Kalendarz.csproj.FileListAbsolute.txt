@@ -33,3 +33,38 @@ C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\bin\Debug\net6.0-windows\Kalend
 C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.initial.resources
 C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.csproj.GenerateResource.cache
 C:\Users\Hubert\Desktop\.NET\Kalendarz\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.edit.resources
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Kalendarz.exe
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Kalendarz.dll.config
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Kalendarz.deps.json
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Kalendarz.runtimeconfig.json
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Kalendarz.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Kalendarz.pdb
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.csproj.AssemblyReference.cache
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz_MarkupCompile.cache
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz_MarkupCompile.lref
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.g.resources
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.initial.resources
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.Migrations.edit.resources
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.csproj.GenerateResource.cache
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.AssemblyInfoInputs.cache
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.AssemblyInfo.cs
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.csproj.CopyComplete
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\refint\Kalendarz.dll
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.pdb
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\Kalendarz.genruntimeconfig.cache
+C:\Users\Ilya Dukhanin\Source\Repos\Calendarr\Kalendarz\obj\Debug\net6.0-windows\ref\Kalendarz.dll

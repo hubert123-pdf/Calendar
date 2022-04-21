@@ -6,29 +6,35 @@
         xmlns:local="clr-namespace:Kalendarz"
         mc:Ignorable="d"
         Title="MainWindow" Height="547" Width="1071">
-    <Grid Margin="-38,0,0,-55">
+    <Grid x:Name="Kalendarz" Margin="-43,-20,0,-55">
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
         </Grid.RowDefinitions>
-        <TextBox x:Name="Wpisz_miasto" TextWrapping="Wrap" Text="Wpisz miasto" Width="120" Margin="113,53,567,-53"/>
-        <Button x:Name="Szukaj" Content="Szukaj" Margin="86,111,140,-108" RenderTransformOrigin="0.5,0.5" Click="Search_Click">
+        <Viewbox Margin="916,130,46,-317" Stretch="Fill">
+            <Grid Height="213.96" Width="152">
+                <TextBox x:Name="Wpisz_miasto" TextWrapping="Wrap" Text="Wpisz miasto" Margin="0,153,0,29" TextAlignment="Left" FontStyle="Italic"/>
+                <Button x:Name="Szukaj" Content="Szukaj" Margin="0,185,0,0" RenderTransformOrigin="0.5,0.5" Click="Search_Click"/>
+                <TextBlock x:Name="cisnienie_miasta" TextWrapping="Wrap" Text="Ciśnienie: " Margin="0,43,0,139"/>
+                <TextBlock x:Name="temperatura_miasta" TextWrapping="Wrap" Text="Temperatura: " Margin="0,78,0,100"/>
+                <TextBlock x:Name="wilgotnosc_miasta" TextWrapping="Wrap" Text="Wilgotność: " Margin="0,114,0,67"/>
+                <TextBlock x:Name="cisnienie_miasta_Copy" TextWrapping="Wrap" Margin="0,0,0,182" Background="#FFF8DADA" IsEnabled="False" TextAlignment="Center" FontWeight="Bold" FontStyle="Italic"><Run Language="pl-pl" Text="Informacja o pogodzie wybranego miasta:"/></TextBlock>
 
-        </Button>
-        <TextBlock x:Name="cisnienie_miasta" TextWrapping="Wrap" Text="Ciśnienie: " Margin="559,11,140,-10"/>
-        <TextBlock x:Name="temperatura_miasta" TextWrapping="Wrap" Text="Temperatura: " Margin="559,40,120,-42"/>
-        <TextBlock x:Name="wilgotnosc_miasta" TextWrapping="Wrap" Text="Wilgotność: " Width="120" Margin="559,69,430,-69"/>
-        <Button Content="Dodaj" Margin="43,322,764,-319" Click="AddToDatabase_Click"/>
-        <TextBox x:Name="dodaj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="74,268,915,-267"/>
-        <TextBox x:Name="dodaj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="74,175,915,-174"/>
-        <TextBox x:Name="dodaj_opis" TextWrapping="Wrap" Text="Opis" Width="120" Margin="74,218,915,-217" RenderTransformOrigin="0.413,-1.531"/>
-        <TextBox x:Name="usun_data" TextWrapping="Wrap" Text="Data do usuniecia" Width="120" Margin="468,254,521,-254"/>
-        <Button Content="Usuń" Margin="395,324,448,-317" Click="RemoveFromDatabase_Click"/>
-        <Button Content="Edytuj" Margin="774,322,69,-315" Click="EditRecord_Click"/>
-        <TextBox x:Name="edytuj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="822,174,167,-173"/>
-        <TextBox x:Name="edytuj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="822,218,167,-217"/>
-        <TextBox x:Name="edytuj_opis" TextWrapping="Wrap" Text="Opis" Width="120" Margin="822,267,167,-266" RenderTransformOrigin="0.413,-1.531"/>
-        <TextBox x:Name="ERROR" TextWrapping="Wrap" Width="120" Margin="486,407,503,-407"/>
-        <TextBox x:Name="dodaj_godzina" TextWrapping="Wrap" Text="Godzina" Width="120" Margin="208,268,781,-267"/>
+
+
+            </Grid>
+        </Viewbox>
+        <Button Content="Dodaj" Click="AddToDatabase_Click" Margin="723,168,271,-163"/>
+        <TextBox x:Name="dodaj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="723,116,271,-115"/>
+        <TextBox x:Name="dodaj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="723,64,271,-63"/>
+        <TextBox x:Name="dodaj_opis" TextWrapping="Wrap" Text="Opis" Width="120" RenderTransformOrigin="0.413,-1.531" Margin="723,90,271,-89"/>
+        <TextBox x:Name="dodaj_godzina" TextWrapping="Wrap" Text="Godzina" Width="120" Margin="723,142,271,-141"/>
+        <TextBox x:Name="usun_data" TextWrapping="Wrap" Text="Data do usuniecia" Width="120" Margin="723,349,271,-348"/>
+        <Button Content="Usuń" Click="RemoveFromDatabase_Click" Margin="723,376,271,-370"/>
+        <Button Content="Edytuj" Click="EditRecord_Click" Margin="723,294,271,-289"/>
+        <TextBox x:Name="edytuj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="723,217,271,-216"/>
+        <TextBox x:Name="edytuj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="723,243,271,-242"/>
+        <TextBox x:Name="edytuj_opis" TextWrapping="Wrap" Text="Opis" Width="120" RenderTransformOrigin="0.413,-1.531" Margin="723,269,271,-268"/>
+        <TextBox x:Name="ERROR" TextWrapping="Wrap" Margin="429,420,331,-420" BorderBrush="Gainsboro"/>
 
 
 
