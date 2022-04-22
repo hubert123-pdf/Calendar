@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_classes_1_1_context" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::Classes::Context</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">DbContext</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_context_1a166dd65f2b70ae877eb4790495bb0ad5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>DbSet&lt; <ref refid="class_kalendarz_1_1_classes_1_1_event" kindref="compound">Event</ref> &gt;</type>
+        <definition>DbSet&lt;Event&gt; Kalendarz.Classes.Context.Events</definition>
+        <argsstring></argsstring>
+        <name>Events</name>
+        <qualifiedname>Kalendarz.Classes.Context.Events</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Context.cs" line="16" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Context.cs" bodystart="16" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_classes_1_1_context_1ad0e819e98f4b88211e23c5ef8aae27a3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Kalendarz.Classes.Context.Context</definition>
+        <argsstring>()</argsstring>
+        <name>Context</name>
+        <qualifiedname>Kalendarz.Classes.Context.Context</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Context.cs" line="12" column="14" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Context.cs" bodystart="12" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>DbContext</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.Classes.Context</label>
+        <link refid="class_kalendarz_1_1_classes_1_1_context"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>DbContext</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.Classes.Context</label>
+        <link refid="class_kalendarz_1_1_classes_1_1_context"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Context.cs" line="10" column="11" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Context.cs" bodystart="11" bodyend="18"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_classes_1_1_context_1ad0e819e98f4b88211e23c5ef8aae27a3" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Context</scope><name>Context</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_context_1a166dd65f2b70ae877eb4790495bb0ad5" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Context</scope><name>Events</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

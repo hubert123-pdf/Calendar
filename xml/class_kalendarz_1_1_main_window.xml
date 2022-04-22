@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_main_window" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::MainWindow</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">System.Windows.Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">System.Windows.Markup.IComponentConnector</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">System.Windows.Window</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">System.Windows.Markup.IComponentConnector</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_kalendarz_1_1_main_window_1a9372b072ab77e0bdce2f9ebec6cb21b8" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>List&lt; <ref refid="class_kalendarz_1_1_classes_1_1_event" kindref="compound">Event</ref> &gt;</type>
+        <definition>List&lt;Event&gt; Kalendarz.MainWindow.Wydarzenia</definition>
+        <argsstring></argsstring>
+        <name>Wydarzenia</name>
+        <qualifiedname>Kalendarz.MainWindow.Wydarzenia</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="23" column="21" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="23" bodyend="23"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1ab98f02f2d58bb7af1ebc92fedf83906f" prot="public" static="no" mutable="no">
+        <type><ref refid="class_kalendarz_1_1_classes_1_1_context" kindref="compound">Context</ref></type>
+        <definition>Context Kalendarz.MainWindow.myContext</definition>
+        <argsstring></argsstring>
+        <name>myContext</name>
+        <qualifiedname>Kalendarz.MainWindow.myContext</qualifiedname>
+        <initializer>= new <ref refid="class_kalendarz_1_1_classes_1_1_context" kindref="compound">Context</ref>()</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="24" column="24" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-attrib">
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a792d1b73ebf94bb3ce1247a53eade867" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Grid</type>
+        <definition>System Windows Controls Grid Kalendarz.MainWindow::Kalendarz</definition>
+        <argsstring></argsstring>
+        <name>Kalendarz</name>
+        <qualifiedname>Kalendarz.MainWindow.Kalendarz</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="47" column="44" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a123cb7805bf57542f31f445e6c6b55d2" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::Wpisz_miasto</definition>
+        <argsstring></argsstring>
+        <name>Wpisz_miasto</name>
+        <qualifiedname>Kalendarz.MainWindow.Wpisz_miasto</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="55" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1abb904b6426046d3c3ff075e9093092d4" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.Button</type>
+        <definition>System Windows Controls Button Kalendarz.MainWindow::Szukaj</definition>
+        <argsstring></argsstring>
+        <name>Szukaj</name>
+        <qualifiedname>Kalendarz.MainWindow.Szukaj</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="63" column="46" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a3dc0bfffa674eaa0d92fb85ffe584218" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBlock</type>
+        <definition>System Windows Controls TextBlock Kalendarz.MainWindow::cisnienie_miasta</definition>
+        <argsstring></argsstring>
+        <name>cisnienie_miasta</name>
+        <qualifiedname>Kalendarz.MainWindow.cisnienie_miasta</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="71" column="49" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a7b7e2e09c96da78866b52c95e069957f" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBlock</type>
+        <definition>System Windows Controls TextBlock Kalendarz.MainWindow::temperatura_miasta</definition>
+        <argsstring></argsstring>
+        <name>temperatura_miasta</name>
+        <qualifiedname>Kalendarz.MainWindow.temperatura_miasta</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="79" column="49" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a81ece599e86777f314ff9d01ab9efeac" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBlock</type>
+        <definition>System Windows Controls TextBlock Kalendarz.MainWindow::wilgotnosc_miasta</definition>
+        <argsstring></argsstring>
+        <name>wilgotnosc_miasta</name>
+        <qualifiedname>Kalendarz.MainWindow.wilgotnosc_miasta</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="87" column="49" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a6c329ebd270f41e69b96853d7bf867bf" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBlock</type>
+        <definition>System Windows Controls TextBlock Kalendarz.MainWindow::cisnienie_miasta_Copy</definition>
+        <argsstring></argsstring>
+        <name>cisnienie_miasta_Copy</name>
+        <qualifiedname>Kalendarz.MainWindow.cisnienie_miasta_Copy</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="95" column="49" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a90dc5a2c9b01743c9f63d3c8d4e0fcfd" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::dodaj_data</definition>
+        <argsstring></argsstring>
+        <name>dodaj_data</name>
+        <qualifiedname>Kalendarz.MainWindow.dodaj_data</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="103" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a9d4f449eaeddb9cdbe0d53ddc86a83bf" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::dodaj_nazwa</definition>
+        <argsstring></argsstring>
+        <name>dodaj_nazwa</name>
+        <qualifiedname>Kalendarz.MainWindow.dodaj_nazwa</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="111" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1adcd868c846f67210918873001369106b" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::dodaj_opis</definition>
+        <argsstring></argsstring>
+        <name>dodaj_opis</name>
+        <qualifiedname>Kalendarz.MainWindow.dodaj_opis</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="119" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="119" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1aaab5f1830d8199f33e189fc72f4ec996" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::dodaj_godzina</definition>
+        <argsstring></argsstring>
+        <name>dodaj_godzina</name>
+        <qualifiedname>Kalendarz.MainWindow.dodaj_godzina</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="127" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1aef764091307903663a36681c6db0a94c" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::usun_data</definition>
+        <argsstring></argsstring>
+        <name>usun_data</name>
+        <qualifiedname>Kalendarz.MainWindow.usun_data</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="135" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1acd143c81af9c09efe17a6fa85c7fb715" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::edytuj_data</definition>
+        <argsstring></argsstring>
+        <name>edytuj_data</name>
+        <qualifiedname>Kalendarz.MainWindow.edytuj_data</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="143" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1aff1c737acdf99a7b7846b7078e0561fd" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::edytuj_nazwa</definition>
+        <argsstring></argsstring>
+        <name>edytuj_nazwa</name>
+        <qualifiedname>Kalendarz.MainWindow.edytuj_nazwa</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="151" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a2169688e0a360c2d10cd8fd601f5131e" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::edytuj_opis</definition>
+        <argsstring></argsstring>
+        <name>edytuj_opis</name>
+        <qualifiedname>Kalendarz.MainWindow.edytuj_opis</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="159" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1a599f52c90e33a0c52555c1c5ba518440" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.TextBox</type>
+        <definition>System Windows Controls TextBox Kalendarz.MainWindow::ERROR</definition>
+        <argsstring></argsstring>
+        <name>ERROR</name>
+        <qualifiedname>Kalendarz.MainWindow.ERROR</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="167" column="47" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="167" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1aa2f0f8577ba9942b3c233c320ffe3233" prot="package" static="no" mutable="no">
+        <type>System.Windows.Controls.ListView</type>
+        <definition>System Windows Controls ListView Kalendarz.MainWindow::list_view</definition>
+        <argsstring></argsstring>
+        <name>list_view</name>
+        <qualifiedname>Kalendarz.MainWindow.list_view</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="175" column="48" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="175" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_kalendarz_1_1_main_window_1abd27bb4f9ea3916d7172d078bc08729b" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Kalendarz.MainWindow::_contentLoaded</definition>
+        <argsstring></argsstring>
+        <name>_contentLoaded</name>
+        <qualifiedname>Kalendarz.MainWindow._contentLoaded</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="180" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="180" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a8920924b405e5c1da603a4bf92fe05e0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Kalendarz.MainWindow.MainWindow</definition>
+        <argsstring>()</argsstring>
+        <name>MainWindow</name>
+        <qualifiedname>Kalendarz.MainWindow.MainWindow</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="25" column="16" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="25" bodyend="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a2883f697a7711e59df6d191b46f0e68a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <qualifiedname>Kalendarz.MainWindow.InitializeComponent</qualifiedname>
+        <briefdescription>
+<para>InitializeComponent </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="187" column="21" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="187" bodyend="199"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a2883f697a7711e59df6d191b46f0e68a" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <qualifiedname>Kalendarz.MainWindow.InitializeComponent</qualifiedname>
+        <briefdescription>
+<para>InitializeComponent </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.i.cs" line="187" column="21" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.i.cs" bodystart="187" bodyend="199"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1ac42d349e22eb91692660e760c66062ac" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.Zaktualizuj_liste</definition>
+        <argsstring>()</argsstring>
+        <name>Zaktualizuj_liste</name>
+        <qualifiedname>Kalendarz.MainWindow.Zaktualizuj_liste</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="31" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="31" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1ac601c886b8aa35ab6daa4b81825547b9" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.Search_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>Search_Click</name>
+        <qualifiedname>Kalendarz.MainWindow.Search_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="44" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="44" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1acbb5196ca68852f923bf65b8a639d123" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.AddToDatabase_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>AddToDatabase_Click</name>
+        <qualifiedname>Kalendarz.MainWindow.AddToDatabase_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="58" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="58" bodyend="83"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a1f6315ecca229a494f7820616d3a2e0b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.RemoveFromDatabase_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>RemoveFromDatabase_Click</name>
+        <qualifiedname>Kalendarz.MainWindow.RemoveFromDatabase_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="85" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="85" bodyend="104"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a9cd0df6e9f3f94630967aaee28f0cd09" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.MainWindow.EditRecord_Click</definition>
+        <argsstring>(object sender, RoutedEventArgs e)</argsstring>
+        <name>EditRecord_Click</name>
+        <qualifiedname>Kalendarz.MainWindow.EditRecord_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>RoutedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="106" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="106" bodyend="124"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1ac9e504f861d0aa1abf83ae6d0471b31a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. Kalendarz.MainWindow.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <qualifiedname>Kalendarz.MainWindow.Connect</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" line="207" column="52" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.cs" bodystart="207" bodyend="293"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_main_window_1ac9e504f861d0aa1abf83ae6d0471b31a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void System.Windows.Markup.IComponentConnector.</type>
+        <definition>void System.Windows.Markup.IComponentConnector. Kalendarz.MainWindow.Connect</definition>
+        <argsstring>(int connectionId, object target)</argsstring>
+        <name>Connect</name>
+        <qualifiedname>Kalendarz.MainWindow.Connect</qualifiedname>
+        <param>
+          <type>int</type>
+          <declname>connectionId</declname>
+        </param>
+        <param>
+          <type>object</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.i.cs" line="207" column="52" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/MainWindow.g.i.cs" bodystart="207" bodyend="293"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para><ref refid="class_kalendarz_1_1_main_window" kindref="compound">MainWindow</ref> </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Kalendarz.MainWindow</label>
+        <link refid="class_kalendarz_1_1_main_window"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+      <node id="3">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="2">
+        <label>Window</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Kalendarz.MainWindow</label>
+        <link refid="class_kalendarz_1_1_main_window"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="usage">
+          <edgelabel>ERROR</edgelabel>
+          <edgelabel>Kalendarz</edgelabel>
+          <edgelabel>Szukaj</edgelabel>
+          <edgelabel>Wpisz_miasto</edgelabel>
+          <edgelabel>cisnienie_miasta</edgelabel>
+          <edgelabel>cisnienie_miasta_Copy</edgelabel>
+          <edgelabel>dodaj_data</edgelabel>
+          <edgelabel>dodaj_godzina</edgelabel>
+          <edgelabel>dodaj_nazwa</edgelabel>
+          <edgelabel>dodaj_opis</edgelabel>
+          <edgelabel>...</edgelabel>
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System</label>
+      </node>
+      <node id="4">
+        <label>System::Windows::Markup::IComponentConnector</label>
+      </node>
+      <node id="3">
+        <label>System::Windows::Window</label>
+      </node>
+      <node id="2">
+        <label>Window</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="21" column="19" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="22" bodyend="125"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_main_window_1abd27bb4f9ea3916d7172d078bc08729b" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>_contentLoaded</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1acbb5196ca68852f923bf65b8a639d123" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>AddToDatabase_Click</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a3dc0bfffa674eaa0d92fb85ffe584218" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>cisnienie_miasta</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a6c329ebd270f41e69b96853d7bf867bf" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>cisnienie_miasta_Copy</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1ac9e504f861d0aa1abf83ae6d0471b31a" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Connect</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1ac9e504f861d0aa1abf83ae6d0471b31a" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Connect</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a90dc5a2c9b01743c9f63d3c8d4e0fcfd" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>dodaj_data</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1aaab5f1830d8199f33e189fc72f4ec996" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>dodaj_godzina</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a9d4f449eaeddb9cdbe0d53ddc86a83bf" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>dodaj_nazwa</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1adcd868c846f67210918873001369106b" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>dodaj_opis</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a9cd0df6e9f3f94630967aaee28f0cd09" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>EditRecord_Click</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1acd143c81af9c09efe17a6fa85c7fb715" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>edytuj_data</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1aff1c737acdf99a7b7846b7078e0561fd" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>edytuj_nazwa</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a2169688e0a360c2d10cd8fd601f5131e" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>edytuj_opis</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a599f52c90e33a0c52555c1c5ba518440" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>ERROR</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a2883f697a7711e59df6d191b46f0e68a" prot="public" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>InitializeComponent</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a2883f697a7711e59df6d191b46f0e68a" prot="public" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>InitializeComponent</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a792d1b73ebf94bb3ce1247a53eade867" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Kalendarz</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1aa2f0f8577ba9942b3c233c320ffe3233" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>list_view</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a8920924b405e5c1da603a4bf92fe05e0" prot="public" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>MainWindow</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1ab98f02f2d58bb7af1ebc92fedf83906f" prot="public" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>myContext</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a1f6315ecca229a494f7820616d3a2e0b" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>RemoveFromDatabase_Click</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1ac601c886b8aa35ab6daa4b81825547b9" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Search_Click</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1abb904b6426046d3c3ff075e9093092d4" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Szukaj</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a7b7e2e09c96da78866b52c95e069957f" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>temperatura_miasta</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1aef764091307903663a36681c6db0a94c" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>usun_data</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a81ece599e86777f314ff9d01ab9efeac" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>wilgotnosc_miasta</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a123cb7805bf57542f31f445e6c6b55d2" prot="package" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Wpisz_miasto</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1a9372b072ab77e0bdce2f9ebec6cb21b8" prot="public" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Wydarzenia</name></member>
+      <member refid="class_kalendarz_1_1_main_window_1ac42d349e22eb91692660e760c66062ac" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>Zaktualizuj_liste</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

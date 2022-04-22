@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="namespace_kalendarz" kind="namespace" language="C#">
+    <compoundname>Kalendarz</compoundname>
+    <innerclass refid="class_kalendarz_1_1_app" prot="public">Kalendarz::App</innerclass>
+    <innerclass refid="class_kalendarz_1_1_main_window" prot="public">Kalendarz::MainWindow</innerclass>
+    <innernamespace refid="namespace_kalendarz_1_1_classes">Kalendarz::Classes</innernamespace>
+    <innernamespace refid="namespace_kalendarz_1_1_migrations">Kalendarz::Migrations</innernamespace>
+    <innernamespace refid="namespace_kalendarz_1_1_w_p_f">Kalendarz::WPF</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/App.xaml.cs" line="9" column="1"/>
+  </compounddef>
+</doxygen>

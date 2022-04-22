@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_classes_1_1_weather" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::Classes::Weather</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1a4c47260efbde072f8aac81b8a98b19e2" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Kalendarz.Classes.Weather.id_stacji</definition>
+        <argsstring></argsstring>
+        <name>id_stacji</name>
+        <qualifiedname>Kalendarz.Classes.Weather.id_stacji</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="11" column="20" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="11" bodyend="11"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1ab066a4dbedc0b37c8ad8da8c21700f50" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Kalendarz.Classes.Weather.stacja</definition>
+        <argsstring></argsstring>
+        <name>stacja</name>
+        <qualifiedname>Kalendarz.Classes.Weather.stacja</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="12" column="23" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="12" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1afd09b75404acba70403ff29ccc31af92" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Kalendarz.Classes.Weather.data_pomiaru</definition>
+        <argsstring></argsstring>
+        <name>data_pomiaru</name>
+        <qualifiedname>Kalendarz.Classes.Weather.data_pomiaru</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="13" column="23" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="13" bodyend="13"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1ac03108c6fb938eafb1864cc89f067420" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Kalendarz.Classes.Weather.godzina_pomiaru</definition>
+        <argsstring></argsstring>
+        <name>godzina_pomiaru</name>
+        <qualifiedname>Kalendarz.Classes.Weather.godzina_pomiaru</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="14" column="20" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="14" bodyend="14"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1a24ec0627f5f12c703afd4886a937da87" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>float</type>
+        <definition>float Kalendarz.Classes.Weather.temperatura</definition>
+        <argsstring></argsstring>
+        <name>temperatura</name>
+        <qualifiedname>Kalendarz.Classes.Weather.temperatura</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="15" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="15" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1a92773a873c24df64e7854f318560065a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>float</type>
+        <definition>float Kalendarz.Classes.Weather.predkosc_wiatru</definition>
+        <argsstring></argsstring>
+        <name>predkosc_wiatru</name>
+        <qualifiedname>Kalendarz.Classes.Weather.predkosc_wiatru</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="16" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="16" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1a6e574e1ee74f0fb8447119856e8d28e4" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>float</type>
+        <definition>float Kalendarz.Classes.Weather.kierunek_wiatru</definition>
+        <argsstring></argsstring>
+        <name>kierunek_wiatru</name>
+        <qualifiedname>Kalendarz.Classes.Weather.kierunek_wiatru</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="17" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="17" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1a4c444fa6139fb7875aa467dbf576085a" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>float</type>
+        <definition>float Kalendarz.Classes.Weather.wilgotnosc_wzgledna</definition>
+        <argsstring></argsstring>
+        <name>wilgotnosc_wzgledna</name>
+        <qualifiedname>Kalendarz.Classes.Weather.wilgotnosc_wzgledna</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="18" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="18" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1aad5d3fa2998c03445d1d5802d5faed42" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>float</type>
+        <definition>float Kalendarz.Classes.Weather.suma_opadu</definition>
+        <argsstring></argsstring>
+        <name>suma_opadu</name>
+        <qualifiedname>Kalendarz.Classes.Weather.suma_opadu</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="19" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="19" bodyend="19"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_weather_1a9938ca13fb6fb123928c3bbc5c107619" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>float</type>
+        <definition>float Kalendarz.Classes.Weather.cisnienie</definition>
+        <argsstring></argsstring>
+        <name>cisnienie</name>
+        <qualifiedname>Kalendarz.Classes.Weather.cisnienie</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="20" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="20" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" line="9" column="11" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Weather.cs" bodystart="10" bodyend="21"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1a9938ca13fb6fb123928c3bbc5c107619" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>cisnienie</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1afd09b75404acba70403ff29ccc31af92" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>data_pomiaru</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1ac03108c6fb938eafb1864cc89f067420" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>godzina_pomiaru</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1a4c47260efbde072f8aac81b8a98b19e2" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>id_stacji</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1a6e574e1ee74f0fb8447119856e8d28e4" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>kierunek_wiatru</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1a92773a873c24df64e7854f318560065a" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>predkosc_wiatru</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1ab066a4dbedc0b37c8ad8da8c21700f50" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>stacja</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1aad5d3fa2998c03445d1d5802d5faed42" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>suma_opadu</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1a24ec0627f5f12c703afd4886a937da87" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>temperatura</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_weather_1a4c444fa6139fb7875aa467dbf576085a" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Weather</scope><name>wilgotnosc_wzgledna</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="namespace_kalendarz_1_1_classes" kind="namespace" language="C#">
+    <compoundname>Kalendarz::Classes</compoundname>
+    <innerclass refid="class_kalendarz_1_1_classes_1_1_a_p_i_connector" prot="public">Kalendarz::Classes::APIConnector</innerclass>
+    <innerclass refid="class_kalendarz_1_1_classes_1_1_context" prot="public">Kalendarz::Classes::Context</innerclass>
+    <innerclass refid="class_kalendarz_1_1_classes_1_1_event" prot="public">Kalendarz::Classes::Event</innerclass>
+    <innerclass refid="class_kalendarz_1_1_classes_1_1_weather" prot="public">Kalendarz::Classes::Weather</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/APIConnector.cs" line="11" column="1"/>
+  </compounddef>
+</doxygen>

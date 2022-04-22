@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="dir_ec6c958869cb5e5a5c110f4041c0501c" kind="dir">
+    <compoundname>C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz</compoundname>
+    <innerdir refid="dir_90119b8c5ef321fe421198dd067e7303">C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes</innerdir>
+    <innerdir refid="dir_d7c829fc8c9c6a7d1d5b45ee9abd9c90">C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations</innerdir>
+    <innerdir refid="dir_8969df092785a51f9bbe3c35e62a85f5">C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj</innerdir>
+    <innerdir refid="dir_9b979ac431b4c5eab08bf27d836f2bb0">C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF</innerdir>
+    <innerfile refid="_app_8xaml_8cs">App.xaml.cs</innerfile>
+    <innerfile refid="_assembly_info_8cs">AssemblyInfo.cs</innerfile>
+    <innerfile refid="_main_window_8xaml_8cs">MainWindow.xaml.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/"/>
+  </compounddef>
+</doxygen>

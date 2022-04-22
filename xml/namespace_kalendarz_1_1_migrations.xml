@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="namespace_kalendarz_1_1_migrations" kind="namespace" language="C#">
+    <compoundname>Kalendarz::Migrations</compoundname>
+    <innerclass refid="class_kalendarz_1_1_migrations_1_1_configuration" prot="package">Kalendarz::Migrations::Configuration</innerclass>
+    <innerclass refid="class_kalendarz_1_1_migrations_1_1edit" prot="public">Kalendarz::Migrations::edit</innerclass>
+    <innerclass refid="class_kalendarz_1_1_migrations_1_1_final" prot="public">Kalendarz::Migrations::Final</innerclass>
+    <innerclass refid="class_kalendarz_1_1_migrations_1_1initial" prot="public">Kalendarz::Migrations::initial</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202203191744460_initial.cs" line="1" column="1"/>
+  </compounddef>
+</doxygen>

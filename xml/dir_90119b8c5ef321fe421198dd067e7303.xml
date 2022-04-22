@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="dir_90119b8c5ef321fe421198dd067e7303" kind="dir">
+    <compoundname>C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes</compoundname>
+    <innerfile refid="_a_p_i_connector_8cs">APIConnector.cs</innerfile>
+    <innerfile refid="_context_8cs">Context.cs</innerfile>
+    <innerfile refid="_event_8cs">Event.cs</innerfile>
+    <innerfile refid="_weather_8cs">Weather.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/"/>
+  </compounddef>
+</doxygen>

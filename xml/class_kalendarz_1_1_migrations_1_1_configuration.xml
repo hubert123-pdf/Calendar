@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_migrations_1_1_configuration" kind="class" language="C#" prot="package">
+    <compoundname>Kalendarz::Migrations::Configuration</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">DbMigrationsConfiguration&lt; Kalendarz.Classes.Context &gt;</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_migrations_1_1_configuration_1a73c5b10b97aea9706ad259588ea39219" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Kalendarz.Migrations.Configuration.Configuration</definition>
+        <argsstring>()</argsstring>
+        <name>Configuration</name>
+        <qualifiedname>Kalendarz.Migrations.Configuration.Configuration</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/Configuration.cs" line="10" column="16" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/Configuration.cs" bodystart="10" bodyend="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_migrations_1_1_configuration_1ac43c3eba3fea2a631645362d6b9b9826" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Kalendarz.Migrations.Configuration.Seed</definition>
+        <argsstring>(Kalendarz.Classes.Context context)</argsstring>
+        <name>Seed</name>
+        <qualifiedname>Kalendarz.Migrations.Configuration.Seed</qualifiedname>
+        <param>
+          <type><ref refid="class_kalendarz_1_1_classes_1_1_context" kindref="compound">Kalendarz.Classes.Context</ref></type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/Configuration.cs" line="15" column="33" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/Configuration.cs" bodystart="15" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>DbMigrationsConfiguration&lt; Kalendarz.Classes.Context &gt;</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.Migrations.Configuration</label>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>DbMigrationsConfiguration&lt; Kalendarz.Classes.Context &gt;</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.Migrations.Configuration</label>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/Configuration.cs" line="8" column="20" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/Configuration.cs" bodystart="9" bodyend="22"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_migrations_1_1_configuration_1a73c5b10b97aea9706ad259588ea39219" prot="public" virt="non-virtual"><scope>Kalendarz::Migrations::Configuration</scope><name>Configuration</name></member>
+      <member refid="class_kalendarz_1_1_migrations_1_1_configuration_1ac43c3eba3fea2a631645362d6b9b9826" prot="protected" virt="non-virtual"><scope>Kalendarz::Migrations::Configuration</scope><name>Seed</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

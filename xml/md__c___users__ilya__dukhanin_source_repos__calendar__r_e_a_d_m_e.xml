@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="md__c___users__ilya__dukhanin_source_repos__calendar__r_e_a_d_m_e" kind="page">
+    <compoundname>md_C__Users_Ilya_Dukhanin_source_repos_Calendar_README</compoundname>
+    <title>README</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para><ref refid="namespace_kalendarz" kindref="compound">Kalendarz</ref> </para>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/README.md"/>
+  </compounddef>
+</doxygen>

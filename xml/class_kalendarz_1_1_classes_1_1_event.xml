@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_classes_1_1_event" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::Classes::Event</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_event_1a5d02552c12ba3f9d6a072ead01b051b9" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Kalendarz.Classes.Event.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <qualifiedname>Kalendarz.Classes.Event.Id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" line="12" column="20" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" bodystart="12" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_event_1ab2498d3687ef36662501b28fc25519fd" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Kalendarz.Classes.Event.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <qualifiedname>Kalendarz.Classes.Event.Name</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" line="13" column="23" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" bodystart="13" bodyend="13"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_event_1a7438cbd4473d81f076540d0dac008c23" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Kalendarz.Classes.Event.Description</definition>
+        <argsstring></argsstring>
+        <name>Description</name>
+        <qualifiedname>Kalendarz.Classes.Event.Description</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" line="14" column="23" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" bodystart="14" bodyend="14"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_event_1a8c24b7459f071f7183a4ccd0d5a786c6" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>string</type>
+        <definition>string Kalendarz.Classes.Event.Date</definition>
+        <argsstring></argsstring>
+        <name>Date</name>
+        <qualifiedname>Kalendarz.Classes.Event.Date</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" line="15" column="23" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" bodystart="15" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_classes_1_1_event_1a482b5b7a09e84810c87a51bd19b3b205" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>int</type>
+        <definition>int Kalendarz.Classes.Event.Hour</definition>
+        <argsstring></argsstring>
+        <name>Hour</name>
+        <qualifiedname>Kalendarz.Classes.Event.Hour</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" line="16" column="20" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" bodystart="16" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" line="10" column="11" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/Event.cs" bodystart="11" bodyend="17"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_classes_1_1_event_1a8c24b7459f071f7183a4ccd0d5a786c6" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Event</scope><name>Date</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_event_1a7438cbd4473d81f076540d0dac008c23" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Event</scope><name>Description</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_event_1a482b5b7a09e84810c87a51bd19b3b205" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Event</scope><name>Hour</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_event_1a5d02552c12ba3f9d6a072ead01b051b9" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Event</scope><name>Id</name></member>
+      <member refid="class_kalendarz_1_1_classes_1_1_event_1ab2498d3687ef36662501b28fc25519fd" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::Event</scope><name>Name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

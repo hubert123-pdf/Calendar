@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_w_p_f_1_1_data" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::WPF::Data</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_kalendarz_1_1_w_p_f_1_1_data_1a1fd19fcbafb886fe766f0a2fd2e8c8b5" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>List&lt; string &gt;</type>
+        <definition>List&lt;string&gt; Kalendarz.WPF.Data.city</definition>
+        <argsstring></argsstring>
+        <name>city</name>
+        <qualifiedname>Kalendarz.WPF.Data.city</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" line="12" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" bodystart="12" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_w_p_f_1_1_data_1aa6cf36065c1b390a967dd3501ff04eeb" prot="public" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="yes" privatesettable="no" protectedsettable="no">
+        <type>List&lt; int &gt;</type>
+        <definition>List&lt;int&gt; Kalendarz.WPF.Data.city_id</definition>
+        <argsstring></argsstring>
+        <name>city_id</name>
+        <qualifiedname>Kalendarz.WPF.Data.city_id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" line="13" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" bodystart="13" bodyend="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_w_p_f_1_1_data_1ae2e79af073193f4ec3e29775333586b0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Kalendarz.WPF.Data.Data</definition>
+        <argsstring>()</argsstring>
+        <name>Data</name>
+        <qualifiedname>Kalendarz.WPF.Data.Data</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" line="14" column="16" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" bodystart="14" bodyend="116"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" line="10" column="11" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/WPF/Data.cs" bodystart="11" bodyend="117"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_w_p_f_1_1_data_1a1fd19fcbafb886fe766f0a2fd2e8c8b5" prot="public" virt="non-virtual"><scope>Kalendarz::WPF::Data</scope><name>city</name></member>
+      <member refid="class_kalendarz_1_1_w_p_f_1_1_data_1aa6cf36065c1b390a967dd3501ff04eeb" prot="public" virt="non-virtual"><scope>Kalendarz::WPF::Data</scope><name>city_id</name></member>
+      <member refid="class_kalendarz_1_1_w_p_f_1_1_data_1ae2e79af073193f4ec3e29775333586b0" prot="public" virt="non-virtual"><scope>Kalendarz::WPF::Data</scope><name>Data</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

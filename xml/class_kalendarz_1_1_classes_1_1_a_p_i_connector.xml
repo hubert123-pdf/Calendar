@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_classes_1_1_a_p_i_connector" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::Classes::APIConnector</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_classes_1_1_a_p_i_connector_1ab690087f20522832de52609c2b07236d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.Classes.APIConnector.getWeather</definition>
+        <argsstring>(ref Weather weather, string city)</argsstring>
+        <name>getWeather</name>
+        <qualifiedname>Kalendarz.Classes.APIConnector.getWeather</qualifiedname>
+        <param>
+          <type>ref <ref refid="class_kalendarz_1_1_classes_1_1_weather" kindref="compound">Weather</ref></type>
+          <declname>weather</declname>
+        </param>
+        <param>
+          <type>string</type>
+          <declname>city</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/APIConnector.cs" line="15" column="21" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/APIConnector.cs" bodystart="15" bodyend="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/APIConnector.cs" line="13" column="11" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Classes/APIConnector.cs" bodystart="14" bodyend="33"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_classes_1_1_a_p_i_connector_1ab690087f20522832de52609c2b07236d" prot="public" virt="non-virtual"><scope>Kalendarz::Classes::APIConnector</scope><name>getWeather</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

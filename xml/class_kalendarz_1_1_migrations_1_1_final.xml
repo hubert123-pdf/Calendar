@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_migrations_1_1_final" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::Migrations::Final</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">DbMigration</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">IMigrationMetadata</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_kalendarz_1_1_migrations_1_1_final_1aa1d8e759d8d8a22d616ca8cc146f9223" prot="private" static="no" mutable="no">
+        <type>readonly ResourceManager</type>
+        <definition>readonly ResourceManager Kalendarz.Migrations.Final.Resources</definition>
+        <argsstring></argsstring>
+        <name>Resources</name>
+        <qualifiedname>Kalendarz.Migrations.Final.Resources</qualifiedname>
+        <initializer>= new ResourceManager(typeof(<ref refid="class_kalendarz_1_1_migrations_1_1_final" kindref="compound">Final</ref>))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" line="12" column="42" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_kalendarz_1_1_migrations_1_1_final_1a526b9cb1bb1a057905bff32558f0383b" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string IMigrationMetadata.</type>
+        <definition>string IMigrationMetadata. Kalendarz.Migrations.Final.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <qualifiedname>Kalendarz.Migrations.Final.Id</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" line="14" column="34" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" bodystart="15" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_migrations_1_1_final_1a337e94af5cb1d5fac5a473e8640272f3" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string IMigrationMetadata.</type>
+        <definition>string IMigrationMetadata. Kalendarz.Migrations.Final.Source</definition>
+        <argsstring></argsstring>
+        <name>Source</name>
+        <qualifiedname>Kalendarz.Migrations.Final.Source</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" line="19" column="34" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" bodystart="20" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="property" id="class_kalendarz_1_1_migrations_1_1_final_1abf2426b810b0fbbb637ac41065a9c129" prot="private" static="no" readable="no" writable="no" gettable="yes" privategettable="no" protectedgettable="no" settable="no" privatesettable="no" protectedsettable="no">
+        <type>string IMigrationMetadata.</type>
+        <definition>string IMigrationMetadata. Kalendarz.Migrations.Final.Target</definition>
+        <argsstring></argsstring>
+        <name>Target</name>
+        <qualifiedname>Kalendarz.Migrations.Final.Target</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" line="24" column="34" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.Designer.cs" bodystart="25" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_migrations_1_1_final_1ad1fb5907f22227b3cda8924c49cfdb68" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Kalendarz.Migrations.Final.Up</definition>
+        <argsstring>()</argsstring>
+        <name>Up</name>
+        <qualifiedname>Kalendarz.Migrations.Final.Up</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.cs" line="8" column="30" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.cs" bodystart="8" bodyend="11"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_migrations_1_1_final_1a9f449efd1e16edff18805a907cc65982" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Kalendarz.Migrations.Final.Down</definition>
+        <argsstring>()</argsstring>
+        <name>Down</name>
+        <qualifiedname>Kalendarz.Migrations.Final.Down</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.cs" line="13" column="30" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.cs" bodystart="13" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>DbMigration</label>
+      </node>
+      <node id="3">
+        <label>IMigrationMetadata</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.Migrations.Final</label>
+        <link refid="class_kalendarz_1_1_migrations_1_1_final"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>DbMigration</label>
+      </node>
+      <node id="3">
+        <label>IMigrationMetadata</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.Migrations.Final</label>
+        <link refid="class_kalendarz_1_1_migrations_1_1_final"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.cs" line="6" column="19" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/Migrations/202204211624273_Final.cs" bodystart="7" bodyend="17"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_migrations_1_1_final_1a9f449efd1e16edff18805a907cc65982" prot="public" virt="non-virtual"><scope>Kalendarz::Migrations::Final</scope><name>Down</name></member>
+      <member refid="class_kalendarz_1_1_migrations_1_1_final_1a526b9cb1bb1a057905bff32558f0383b" prot="private" virt="non-virtual"><scope>Kalendarz::Migrations::Final</scope><name>Id</name></member>
+      <member refid="class_kalendarz_1_1_migrations_1_1_final_1aa1d8e759d8d8a22d616ca8cc146f9223" prot="private" virt="non-virtual"><scope>Kalendarz::Migrations::Final</scope><name>Resources</name></member>
+      <member refid="class_kalendarz_1_1_migrations_1_1_final_1a337e94af5cb1d5fac5a473e8640272f3" prot="private" virt="non-virtual"><scope>Kalendarz::Migrations::Final</scope><name>Source</name></member>
+      <member refid="class_kalendarz_1_1_migrations_1_1_final_1abf2426b810b0fbbb637ac41065a9c129" prot="private" virt="non-virtual"><scope>Kalendarz::Migrations::Final</scope><name>Target</name></member>
+      <member refid="class_kalendarz_1_1_migrations_1_1_final_1ad1fb5907f22227b3cda8924c49cfdb68" prot="public" virt="non-virtual"><scope>Kalendarz::Migrations::Final</scope><name>Up</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

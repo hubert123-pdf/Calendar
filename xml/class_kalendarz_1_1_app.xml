@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="class_kalendarz_1_1_app" kind="class" language="C#" prot="public">
+    <compoundname>Kalendarz::App</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Application</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">System.Windows.Application</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">System.Windows.Application</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_app_1a9a914a18602b955b07b8b4bdb1ccbcf7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.App.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <qualifiedname>Kalendarz.App.InitializeComponent</qualifiedname>
+        <briefdescription>
+<para>InitializeComponent </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.cs" line="49" column="21" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.cs" bodystart="49" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_app_1a9a914a18602b955b07b8b4bdb1ccbcf7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Kalendarz.App.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <qualifiedname>Kalendarz.App.InitializeComponent</qualifiedname>
+        <briefdescription>
+<para>InitializeComponent </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.i.cs" line="49" column="21" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.i.cs" bodystart="49" bodyend="56"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_kalendarz_1_1_app_1a0e3f17997f31b95cf01080a59011ec9d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Kalendarz.App.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <qualifiedname>Kalendarz.App.Main</qualifiedname>
+        <briefdescription>
+<para>Application Entry Point. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.cs" line="64" column="28" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.cs" bodystart="64" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="function" id="class_kalendarz_1_1_app_1a0e3f17997f31b95cf01080a59011ec9d" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Kalendarz.App.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <qualifiedname>Kalendarz.App.Main</qualifiedname>
+        <briefdescription>
+<para>Application Entry Point. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.i.cs" line="64" column="28" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/obj/Debug/net6.0-windows/App.g.i.cs" bodystart="64" bodyend="68"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Interaction logic for App.xaml </para>
+    </briefdescription>
+    <detaileddescription>
+<para><ref refid="class_kalendarz_1_1_app" kindref="compound">App</ref> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Application</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.App</label>
+        <link refid="class_kalendarz_1_1_app"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Windows::Application</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Application</label>
+      </node>
+      <node id="1">
+        <label>Kalendarz.App</label>
+        <link refid="class_kalendarz_1_1_app"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Windows::Application</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/App.xaml.cs" line="14" column="19" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/App.xaml.cs" bodystart="15" bodyend="16"/>
+    <listofallmembers>
+      <member refid="class_kalendarz_1_1_app_1a9a914a18602b955b07b8b4bdb1ccbcf7" prot="public" virt="non-virtual"><scope>Kalendarz::App</scope><name>InitializeComponent</name></member>
+      <member refid="class_kalendarz_1_1_app_1a9a914a18602b955b07b8b4bdb1ccbcf7" prot="public" virt="non-virtual"><scope>Kalendarz::App</scope><name>InitializeComponent</name></member>
+      <member refid="class_kalendarz_1_1_app_1a0e3f17997f31b95cf01080a59011ec9d" prot="public" virt="non-virtual"><scope>Kalendarz::App</scope><name>Main</name></member>
+      <member refid="class_kalendarz_1_1_app_1a0e3f17997f31b95cf01080a59011ec9d" prot="public" virt="non-virtual"><scope>Kalendarz::App</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

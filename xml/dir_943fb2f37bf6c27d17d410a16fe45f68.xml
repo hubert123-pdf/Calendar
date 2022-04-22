@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="dir_943fb2f37bf6c27d17d410a16fe45f68" kind="dir">
+    <compoundname>C:/Users/Ilya Dukhanin/source/repos/Calendar</compoundname>
+    <innerdir refid="dir_ec6c958869cb5e5a5c110f4041c0501c">C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/"/>
+  </compounddef>
+</doxygen>
