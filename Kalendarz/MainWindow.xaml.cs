@@ -87,10 +87,12 @@ namespace Kalendarz
             using (Context myContext = new Context())
             {
                 string date;
+                int hour;
                 try
                 {
                     date = usun_data.Text;
-                    var row = myContext.Events.Where(r => r.Date == date).First();
+                    hour = int.Parse(usun_godzina.Text);
+                    var row = myContext.Events.Where(r => r.Date == date && r.Hour == hour).First();
                     myContext.Events.Remove(row);
                     myContext.SaveChanges();
                     Zaktualizuj_liste();
@@ -107,10 +109,12 @@ namespace Kalendarz
         {
       
             string date;
+            int hour;
             try
             {
                 date = edytuj_data.Text;
-                var blogs = myContext.Events.Where(r => r.Date == date).First();
+                hour = int.Parse(edytuj_godzina.Text);
+                var blogs = myContext.Events.Where(r => r.Date == date && r.Hour == hour).First();
                 blogs.Name = edytuj_nazwa.Text;
                 blogs.Description = edytuj_opis.Text;
                 myContext.SaveChanges();

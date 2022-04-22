@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Kalendarz"
         mc:Ignorable="d"
-        Title="MainWindow" Height="547" Width="1071">
+        Title="MainWindow" Height="547" Width="1089">
     <Grid x:Name="Kalendarz" Margin="-43,-20,0,-55">
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
@@ -28,13 +28,16 @@
         <TextBox x:Name="dodaj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="723,64,271,-63"/>
         <TextBox x:Name="dodaj_opis" TextWrapping="Wrap" Text="Opis" Width="120" RenderTransformOrigin="0.413,-1.531" Margin="723,90,271,-89"/>
         <TextBox x:Name="dodaj_godzina" TextWrapping="Wrap" Text="Godzina" Width="120" Margin="723,142,271,-141"/>
-        <TextBox x:Name="usun_data" TextWrapping="Wrap" Text="Data do usuniecia" Width="120" Margin="723,349,271,-348"/>
-        <Button Content="Usuń" Click="RemoveFromDatabase_Click" Margin="723,376,271,-370"/>
-        <Button Content="Edytuj" Click="EditRecord_Click" Margin="723,294,271,-289"/>
+        <TextBox x:Name="usun_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="672,429,340,-428"/>
+        <TextBox x:Name="usun_godzina" TextWrapping="Wrap" Text="Godzina" Width="120" Margin="797,429,215,-428"/>
+
+        <Button Content="Usuń" Click="RemoveFromDatabase_Click" Margin="723,485,271,-480"/>
+        <Button Content="Edytuj" Click="EditRecord_Click" Margin="723,341,271,-336"/>
         <TextBox x:Name="edytuj_data" TextWrapping="Wrap" Text="Data" Width="120" Margin="723,217,271,-216"/>
-        <TextBox x:Name="edytuj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="723,243,271,-242"/>
-        <TextBox x:Name="edytuj_opis" TextWrapping="Wrap" Text="Opis" Width="120" RenderTransformOrigin="0.413,-1.531" Margin="723,269,271,-268"/>
-        <TextBox x:Name="ERROR" TextWrapping="Wrap" Margin="429,420,331,-420" BorderBrush="Gainsboro"/>
+        <TextBox x:Name="edytuj_godzina" TextWrapping="Wrap" Text="Godzina" Width="120" Margin="723,243,289,-242"/>
+        <TextBox x:Name="edytuj_nazwa" TextWrapping="Wrap" Text="Nazwa" Width="120" Margin="723,265,289,-265"/>
+        <TextBox x:Name="edytuj_opis" TextWrapping="Wrap" Text="Opis" Width="120" RenderTransformOrigin="0.413,-1.531" Margin="723,291,289,-290"/>
+        <TextBox x:Name="ERROR" TextWrapping="Wrap" Margin="171,438,589,-438" BorderBrush="Gainsboro"/>
         <ListView x:Name="list_view" ItemsSource="{Binding Wydarzenia}" Margin="50,53,434,-359">
             <ListView.View>
                 <GridView>
