@@ -372,12 +372,31 @@
           <declname>e</declname>
         </param>
         <briefdescription>
+<para>Handles the Click event of the Search control.</para>
         </briefdescription>
         <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="44" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="44" bodyend="56"/>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="47" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="47" bodyend="59"/>
       </memberdef>
       <memberdef kind="function" id="class_kalendarz_1_1_main_window_1acbb5196ca68852f923bf65b8a639d123" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -394,12 +413,31 @@
           <declname>e</declname>
         </param>
         <briefdescription>
+<para>Handles the Click event of the AddToDatabase control.</para>
         </briefdescription>
         <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="58" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="58" bodyend="83"/>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="64" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="64" bodyend="89"/>
       </memberdef>
       <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a1f6315ecca229a494f7820616d3a2e0b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -416,12 +454,31 @@
           <declname>e</declname>
         </param>
         <briefdescription>
+<para>Handles the Click event of the RemoveFromDatabase control.</para>
         </briefdescription>
         <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="85" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="85" bodyend="104"/>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="94" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="94" bodyend="113"/>
       </memberdef>
       <memberdef kind="function" id="class_kalendarz_1_1_main_window_1a9cd0df6e9f3f94630967aaee28f0cd09" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void</type>
@@ -438,12 +495,31 @@
           <declname>e</declname>
         </param>
         <briefdescription>
+<para>Handles the Click event of the EditRecord control.</para>
         </briefdescription>
         <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sender</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source of the event.</para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The RoutedEventArgs instance containing the event data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="106" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="106" bodyend="124"/>
+        <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="118" column="22" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="118" bodyend="136"/>
       </memberdef>
       <memberdef kind="function" id="class_kalendarz_1_1_main_window_1ac9e504f861d0aa1abf83ae6d0471b31a" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
         <type>void System.Windows.Markup.IComponentConnector.</type>
@@ -561,7 +637,7 @@
         <label>Window</label>
       </node>
     </collaborationgraph>
-    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="21" column="19" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="22" bodyend="125"/>
+    <location file="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" line="21" column="19" bodyfile="C:/Users/Ilya Dukhanin/source/repos/Calendar/Kalendarz/MainWindow.xaml.cs" bodystart="22" bodyend="137"/>
     <listofallmembers>
       <member refid="class_kalendarz_1_1_main_window_1abd27bb4f9ea3916d7172d078bc08729b" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>_contentLoaded</name></member>
       <member refid="class_kalendarz_1_1_main_window_1acbb5196ca68852f923bf65b8a639d123" prot="private" virt="non-virtual"><scope>Kalendarz::MainWindow</scope><name>AddToDatabase_Click</name></member>

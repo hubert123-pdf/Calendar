@@ -7,6 +7,20 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <None Update="xml\compound.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="xml\doxyfile.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="xml\index.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="xml\xml.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>

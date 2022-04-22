@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="dir_578adefa819ae8a74bd8f5d4e90848d6" kind="dir">
+    <compoundname>Kalendarz</compoundname>
+    <innerdir refid="dir_a18acc21ecc8101bbed92417870309e1">Kalendarz/Classes</innerdir>
+    <innerdir refid="dir_e52224e01fd37c9cc295a8f63e887ffd">Kalendarz/Migrations</innerdir>
+    <innerdir refid="dir_0d5bfef9d3377da57f8e7c492d3efa67">Kalendarz/obj</innerdir>
+    <innerdir refid="dir_68e5c0e9c084b5972962a8b046be1f5f">Kalendarz/WPF</innerdir>
+    <innerfile refid="_app_8xaml_8cs">App.xaml.cs</innerfile>
+    <innerfile refid="_assembly_info_8cs">AssemblyInfo.cs</innerfile>
+    <innerfile refid="_main_window_8xaml_8cs">MainWindow.xaml.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Kalendarz/"/>
+  </compounddef>
+</doxygen>

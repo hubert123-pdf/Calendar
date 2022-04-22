@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.3" xml:lang="en-US">
+  <compounddef id="dir_68e5c0e9c084b5972962a8b046be1f5f" kind="dir">
+    <compoundname>Kalendarz/WPF</compoundname>
+    <innerfile refid="_data_8cs">Data.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Kalendarz/WPF/"/>
+  </compounddef>
+</doxygen>

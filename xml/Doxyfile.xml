@@ -64,7 +64,7 @@
   <option  id='TYPEDEF_HIDES_STRUCT' default='yes' type='bool'><value>NO</value></option>
   <option  id='LOOKUP_CACHE_SIZE' default='yes' type='int'><value>0</value></option>
   <option  id='NUM_PROC_THREADS' default='yes' type='int'><value>1</value></option>
-  <option  id='EXTRACT_ALL' default='yes' type='bool'><value>NO</value></option>
+  <option  id='EXTRACT_ALL' default='no' type='bool'><value>YES</value></option>
   <option  id='EXTRACT_PRIVATE' default='yes' type='bool'><value>NO</value></option>
   <option  id='EXTRACT_PRIV_VIRTUAL' default='yes' type='bool'><value>NO</value></option>
   <option  id='EXTRACT_PACKAGE' default='yes' type='bool'><value>NO</value></option>
@@ -207,7 +207,7 @@
   <option  id='ALPHABETICAL_INDEX' default='yes' type='bool'><value>YES</value></option>
   <option  id='IGNORE_PREFIX' default='yes' type='stringlist'>
   </option>
-  <option  id='GENERATE_HTML' default='no' type='bool'><value>NO</value></option>
+  <option  id='GENERATE_HTML' default='yes' type='bool'><value>YES</value></option>
   <option  id='HTML_OUTPUT' default='yes' type='string'><value><![CDATA[html]]></value></option>
   <option  id='HTML_FILE_EXTENSION' default='yes' type='string'><value><![CDATA[.html]]></value></option>
   <option  id='HTML_HEADER' default='yes' type='string'><value><![CDATA[]]></value></option>
@@ -273,7 +273,7 @@
   <option  id='EXTERNAL_SEARCH_ID' default='yes' type='string'><value><![CDATA[]]></value></option>
   <option  id='EXTRA_SEARCH_MAPPINGS' default='yes' type='stringlist'>
   </option>
-  <option  id='GENERATE_LATEX' default='no' type='bool'><value>NO</value></option>
+  <option  id='GENERATE_LATEX' default='yes' type='bool'><value>YES</value></option>
   <option  id='LATEX_OUTPUT' default='yes' type='string'><value><![CDATA[latex]]></value></option>
   <option  id='LATEX_CMD_NAME' default='yes' type='string'><value><![CDATA[]]></value></option>
   <option  id='MAKEINDEX_CMD_NAME' default='yes' type='string'><value><![CDATA[makeindex]]></value></option>
@@ -288,7 +288,7 @@
   </option>
   <option  id='LATEX_EXTRA_FILES' default='yes' type='stringlist'>
   </option>
-  <option  id='PDF_HYPERLINKS' default='no' type='bool'><value>NO</value></option>
+  <option  id='PDF_HYPERLINKS' default='yes' type='bool'><value>YES</value></option>
   <option  id='USE_PDFLATEX' default='yes' type='bool'><value>YES</value></option>
   <option  id='LATEX_BATCHMODE' default='yes' type='bool'><value>NO</value></option>
   <option  id='LATEX_HIDE_INDICES' default='yes' type='bool'><value>NO</value></option>
@@ -343,7 +343,7 @@
   <option  id='DOT_FONTNAME' default='yes' type='string'><value><![CDATA[Helvetica]]></value></option>
   <option  id='DOT_FONTSIZE' default='yes' type='int'><value>10</value></option>
   <option  id='DOT_FONTPATH' default='yes' type='string'><value><![CDATA[]]></value></option>
-  <option  id='CLASS_GRAPH' default='yes' type='string'><value>YES</value></option>
+  <option  id='CLASS_GRAPH' default='no' type='string'><value>NO</value></option>
   <option  id='COLLABORATION_GRAPH' default='yes' type='bool'><value>YES</value></option>
   <option  id='GROUP_GRAPHS' default='yes' type='bool'><value>YES</value></option>
   <option  id='UML_LOOK' default='yes' type='bool'><value>NO</value></option>
